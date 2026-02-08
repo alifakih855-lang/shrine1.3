@@ -2,70 +2,8 @@
   "sections": {
     "main": {
       "type": "main-product",
-      "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-            "text_size": "h1"
-          }
-        },
-        "rating": {
-          "type": "text",
-          "settings": {
-            "text": "★★★★★ 4.4 (1,203 reviews)"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "title",
-        "rating",
-        "price",
-        "variant_picker",
-        "quantity",
-        "buy_buttons",
-        "description"
-      ],
-      "settings": {
-        "enable_sticky_info": false,
-        "image_zoom": "none",
-        "media_size": "medium",
-        "media_position": "left"
-      }
-    },
-
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "products_to_show": 4
-      }
+      "settings": {}
     }
   },
-  "order": [
-    "main",
-    "related-products"
-  ]
+  "order": ["main"]
 }
