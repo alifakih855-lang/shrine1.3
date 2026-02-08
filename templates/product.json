@@ -78,7 +78,7 @@
             "price_color": "accent-2",
             "compare_price_color": "accent-1",
             "displayed_badge": "custom",
-            "icon_scale": 100,
+            "icon_scale": 135,
             "custom_badge_text": "[icon_1] SPECIAL OFFER",
             "icon_1": "redeem",
             "filled_icon_1": false,
