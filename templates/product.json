@@ -273,6 +273,7 @@
         },
         "reviews_8UgFbe": {
           "type": "reviews",
+          "disabled": true,
           "settings": {
             "color_scheme": "background-1",
             "show_custom_bg": false,
