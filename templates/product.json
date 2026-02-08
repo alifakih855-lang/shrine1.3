@@ -75,8 +75,8 @@
           "type": "price",
           "settings": {
             "layout": "price_first",
-            "price_color": "accent-1",
-            "compare_price_color": "text",
+            "price_color": "accent-2",
+            "compare_price_color": "accent-1",
             "displayed_badge": "custom",
             "icon_scale": 100,
             "custom_badge_text": "[icon_1] SPECIAL OFFER",
