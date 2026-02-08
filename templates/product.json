@@ -16,7 +16,7 @@
           "type": "rating_stars",
           "settings": {
             "rating": 4.6,
-            "star_color": "#ffcc00",
+            "star_color": "#ffca61",
             "bg_stars_style": "full",
             "bg_star_color": "#ececec",
             "label": "(376 Reviews)",
