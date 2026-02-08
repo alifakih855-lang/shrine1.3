@@ -583,6 +583,7 @@
         "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/O1CN01GrhNss2BgbOWeHzpd__2220374238368-0-cib.jpg",
             "link": "",
             "description": "",
             "desc_alignment": "center",
@@ -830,6 +831,7 @@
     },
     "b321ab88-2b59-4dba-bade-54885c874ca5": {
       "type": "section-divider",
+      "disabled": true,
       "settings": {
         "visibility": "always-display",
         "shape": "waves_3",
