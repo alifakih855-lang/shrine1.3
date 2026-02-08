@@ -137,7 +137,7 @@
             "show_dynamic_checkout": false,
             "skip_cart": false,
             "uppercase_text": true,
-            "icon_scale": 120,
+            "icon_scale": 105,
             "icon_spacing": 10,
             "display_price": false,
             "enable_custom_color": false,
