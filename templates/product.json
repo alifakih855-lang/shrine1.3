@@ -37,6 +37,40 @@
             "margin_bottom": 0
           }
         },
+        "text_hWQphM": {
+          "type": "text",
+          "settings": {
+            "mobile_text_size": 14,
+            "desktop_text_size": 16,
+            "alignment": "left",
+            "text_color": "#121212",
+            "text_1": "Strong rechargeable battery",
+            "text_2": "Energy-efficient LED technology",
+            "text_3": "",
+            "icon_scale": 120,
+            "icon_color": "#121212",
+            "icon_1": "check_circle",
+            "filled_icon_1": false,
+            "custom_icon_1": "shopify://shop_images/131-1316707_light-bulb-vector-png-transparent-png.png",
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "custom_icon_2": "shopify://shop_images/131-1316707_light-bulb-vector-png-transparent-png.png",
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "custom_icon_3": "shopify://shop_images/131-1316707_light-bulb-vector-png-transparent-png.png",
+            "width": "100%",
+            "direction": "vertical",
+            "column_gap": 3,
+            "enable_bg": false,
+            "bg_color": "#f3f3f3",
+            "corner_radius": 40,
+            "padding": 3,
+            "border_size": 0,
+            "border_color": "#b7b7b7",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -270,6 +304,7 @@
       "block_order": [
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "title",
+        "text_hWQphM",
         "price",
         "custom_liquid_EhDbez",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
